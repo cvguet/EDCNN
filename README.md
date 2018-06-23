@@ -1,1 +1,1 @@
-# A Novel Image Denoising Method via Enhance Deep Neural Network
+# EDCNN:A Novel Image Denoising Method via Enhanced Deep Convolutional Neural Network
